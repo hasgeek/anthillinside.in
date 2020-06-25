@@ -1,0 +1,20 @@
+{
+  "name": "Anthill Inside",
+  "short_name": "Anthill Inside",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": "/?utm_source=app_homescreen",
+  
+  "theme_color": "#3f50a3",
+  
+  "background_color": "#FAFAFA",
+  "description": "India's community of deep learning and artificial intelligence practitioners",
+  
+  "icons": [
+    
+    {"src":"images/touch/anthillinside-icon-192.png","sizes":"192x192","type":"image/png"}
+    
+    
+  ]
+  
+}
